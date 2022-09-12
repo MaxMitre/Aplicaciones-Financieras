@@ -1,2 +1,1 @@
-* Los datos del archivo "Brazil.csv" son los utilizados en el IPYNB "Prediccion_Inflacion_BR_Regresion.ipynb"
-* Los datos del archivo "insurance.csv" son los utilizados en el IPYNB "RegLineal_vs_RedNeuronal_Aseguradora.ipynb"
+# El archivo de esta semana se encuentra en https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud (con nombre "creditcard.csv")
