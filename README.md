@@ -17,3 +17,5 @@ El curso incluye cuidadosas explicaciones matemáticas de los modelos así como 
 - Portafolios financieros: de Markowitz a HRP
 - Hedging y aprendizaje por refuerzo
 - Predicción de incertidumbre y NLP
+
+Notas: Semanas 1, 2 y 3 actualizadas.
