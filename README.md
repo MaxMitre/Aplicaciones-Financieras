@@ -19,13 +19,21 @@ Los temas que trataremos en el curso son:
 - Predicción de incertidumbre y NLP
 
 Semama 1.1: https://colab.research.google.com/drive/1xLua6ab8XndD4nlQxOV3JndoXVU4P5jf?usp=drive_link
+
 Semana 1.2: https://colab.research.google.com/drive/1TPh6Fh1zF1LcB6QCfBIZx1Aw9c_7esr5?usp=drive_link
+
 Semana 2.1: https://colab.research.google.com/drive/1X22-tAJs0tPHUJDB4D9Pa9Gzcjls1Ncx?usp=drive_link
+
 Semana 2.2: https://colab.research.google.com/drive/1UIEwGYoOYSCatKCU16TgM3XfPSStDPAg?usp=drive_link
+
 Semana 3.1: https://colab.research.google.com/drive/1RrtJzcNfs1Z6gBjC5YArXFYqkLNqaEIa?usp=drive_link
+
 Semana 3.2: https://colab.research.google.com/drive/1MXFRhj27JSMAeWDr-KtWa_QsTx8nY8wX?usp=drive_link
 
 Semana 5.1: https://colab.research.google.com/drive/1o_mDGN4zc9yC1MnHymXsqC_u2mcz3ZBJ?usp=drive_link
+
 Semana 5.2: https://colab.research.google.com/drive/1AidEC-Qa7EnDWeupm9yC-WTRr9F0ezvF?usp=drive_link
+
 Semana 6.1: https://colab.research.google.com/drive/1a2P3jdZFlvZTSKbMkvSW9KwJ_OxXhbwW?usp=drive_link
+
 Semana 6.2: https://colab.research.google.com/drive/1Oo0bR1Zmqi9rAUTt2-QjCMcc8k0KJkgu?usp=drive_link
