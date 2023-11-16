@@ -37,3 +37,5 @@ Semana 5.2: https://colab.research.google.com/drive/1AidEC-Qa7EnDWeupm9yC-WTRr9F
 Semana 6.1: https://colab.research.google.com/drive/1a2P3jdZFlvZTSKbMkvSW9KwJ_OxXhbwW?usp=drive_link
 
 Semana 6.2: https://colab.research.google.com/drive/1Oo0bR1Zmqi9rAUTt2-QjCMcc8k0KJkgu?usp=drive_link
+
+Semana 7.1: https://colab.research.google.com/drive/1F3TjUu7zPHqEhYB1V6CGMpXCvlVlYCh0?usp=drive_link
