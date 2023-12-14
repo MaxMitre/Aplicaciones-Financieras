@@ -39,3 +39,17 @@ Semana 6.1: https://colab.research.google.com/drive/1a2P3jdZFlvZTSKbMkvSW9KwJ_Ox
 Semana 6.2: https://colab.research.google.com/drive/1Oo0bR1Zmqi9rAUTt2-QjCMcc8k0KJkgu?usp=drive_link
 
 Semana 7.1: https://colab.research.google.com/drive/1F3TjUu7zPHqEhYB1V6CGMpXCvlVlYCh0?usp=drive_link
+
+Semana 7.2: https://colab.research.google.com/drive/1ogI6kSepOu9qNQR4RMps-TY21IltB5zN?usp=drive_link
+
+Semana 9.1: https://colab.research.google.com/drive/1rPAiCIX1ZiiLvKjauufb2Zl2kfV24e3f?usp=drive_link
+
+Semana 9.2: https://colab.research.google.com/drive/1MqCD2HplFFnwE2c04z7UPmV8LQ1l6QNn?usp=drive_link
+
+Semana 10.1.1: https://colab.research.google.com/drive/1UrHQL06Lsd0-sigfHKCupkq1X8gLxlgZ?usp=drive_link
+
+Semana 10.1.2: https://colab.research.google.com/drive/1n6mGQm8rPmfJuoxzJym2-SYEdJfaUZvV?usp=drive_link
+
+Semana 10.2: https://colab.research.google.com/drive/1EdRtY-Q5-o0CvtaZyDIiTrnDd-kJ1mn7?usp=drive_link
+
+Semana 11: https://colab.research.google.com/drive/1HYZir9mx5fkB-vuX1yZCHqvTydM2UUxd?usp=sharing
