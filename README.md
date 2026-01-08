@@ -17,3 +17,5 @@ Los temas que trataremos en el curso son:
 - Portafolios financieros: de Markowitz a HRP
 - Hedging y aprendizaje por refuerzo
 - Predicción de incertidumbre y NLP
+
+# Ultima Edición del Curso
